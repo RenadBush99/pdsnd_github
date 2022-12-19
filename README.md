@@ -4,7 +4,7 @@
  19 dec 2022.
 
 ### Project Title
- bikeshare project.
+ git project.
 
 ### Description
  This is a big project, I use git and fun stuff to solve it.
@@ -16,4 +16,7 @@
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 ### About me:
-i'm Renadbushnaq, i love programming.....
+i'm Renadbushnaq, i love programming, 
+and i'm 24 years old.
+
+

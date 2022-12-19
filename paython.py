@@ -52,7 +52,9 @@ def get_filters():
 
     print("Type end at any time if you would like to exit the program.\n")
 
-    while True:
+    def program_language():
+        print("sql , python, git");
+
         city = choice("\nFor what city(ies) do you want do select data, "
                       "New York City, Chicago or Washington? Use commas "
                       "to list the names.\n>", CITY_DATA.keys())
