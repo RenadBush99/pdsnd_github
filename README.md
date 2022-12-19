@@ -7,10 +7,10 @@
  bikeshare project.
 
 ### Description
-Describe what your project is about and what it does
+ This is a big project, I use git and fun stuff to solve it.
 
 ### Files used
-Include the files used
+ I used previous project files.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
