@@ -57,6 +57,7 @@ def get_filters():
 
         def printinfo():
             print("my name is renad, i'm 24 years old.")
+            print ("i'm from al-madinah")
 
         city = choice("\nFor what city(ies) do you want do select data, "
                       "New York City, Chicago or Washington? Use commas "
